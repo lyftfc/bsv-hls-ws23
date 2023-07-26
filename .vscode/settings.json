@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "thread": "cpp",
+        "random": "cpp"
+    },
+    "editor.fontFamily": "'Fira Code', 'Cascadia Code', 'Courier New', monospace",
+    "editor.fontLigatures": "'zero', 'ss03', 'ss05', 'ss06', 'cv02', 'cv20', 'cv23'",//false,
+    "editor.fontSize": 11.5,
+    "terminal.integrated.fontFamily": "'Cascadia Code', 'Courier New', monospace",
+    "terminal.integrated.fontSize": 12
+}

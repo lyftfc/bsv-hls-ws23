@@ -1,0 +1,6 @@
+build/
+/bsv/verilog/
+/hls/*_hlsprj/
+*.vcd
+*_hls.log
+
